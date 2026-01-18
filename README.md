@@ -1,10 +1,10 @@
  AWS Web Hosting with Terraform - Cloud Programming Portfolio
 
 Student: Khouloud Chebboubi  
-Matriculation:102303255  
-Course: Cloud Programming (DLBSEPCP01_E)  
-University: IU International University  
-Date: January 2026
+Matriculation: 102303255  
+Course:  Cloud Programming (DLBSEPCP01_E)  
+University:  IU International University  
+Date:  January 2026
 
  Project Overview
 This Terraform project deploys a highly available, scalable website on AWS. The architecture follows cloud best practices for high availability, security, and cost optimization.

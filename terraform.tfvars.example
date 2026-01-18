@@ -1,0 +1,16 @@
+# AWS Web Hosting Configuration
+# Copy to terraform.tfvars and update values
+
+# Required
+aws_region = "eu-central-1"
+environment = "production"
+
+# Network
+vpc_cidr = "10.0.0.0/16"
+
+# Compute
+instance_type = "t3.micro"
+
+# Optional
+enable_cloudfront = true
+# domain_name = "yourdomain.com"

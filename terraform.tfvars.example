@@ -1,5 +1,0 @@
-aws_region = "eu-central-1"
-bucket_name = "your-unique-bucket-name"
-route53_zone_id = "Z123456789ABC"
-domain_name = "yourdomain.com"
-key_name = "your-ssh-key-name"

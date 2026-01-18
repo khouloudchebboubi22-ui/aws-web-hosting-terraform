@@ -1,9 +1,0 @@
-# Example configuration file
-# Copy to terraform.tfvars and update values
-
-aws_region = "eu-central-1"
-environment = "production"
-instance_count = 3
-
-# Optional: Your domain name
-# domain_name = "yourdomain.com"

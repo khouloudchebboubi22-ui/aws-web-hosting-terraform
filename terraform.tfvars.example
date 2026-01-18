@@ -1,21 +1,5 @@
-# terraform.tfvars.example
 # Copy this file to terraform.tfvars and fill in your values
-
 aws_region = "eu-central-1"
 vpc_cidr = "10.0.0.0/16"
-
-public_subnets = ["10.0.1.0/24", "10.0.2.0/24", "10.0.3.0/24"]
-private_subnets = ["10.0.101.0/24", "10.0.102.0/24", "10.0.103.0/24"]
-
-availability_zones = ["eu-central-1a", "eu-central-1b", "eu-central-1c"]
-
-instance_type = "t3.small"
-key_name = "web-hosting-key"
-ami_id = "ami-0dcc0ebde7b2e00db"
-
-bucket_name = "my-static-website-bucket-102303255"
-
-# Optional: Fill these if you have a domain
-# certificate_arn = "arn:aws:acm:eu-central-1:123456789012:certificate/xxxxxx"
-# route53_zone_id = "Z1234567890ABC"
-# domain_name = "mywebsite.com"
+bucket_name = "my-website-bucket-102303255"
+instance_type = "t3.micro"

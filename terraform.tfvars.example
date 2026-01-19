@@ -1,5 +1,0 @@
-# Copy this file to terraform.tfvars and fill in your values
-aws_region = "eu-central-1"
-vpc_cidr = "10.0.0.0/16"
-bucket_name = "my-website-bucket-102303255"
-instance_type = "t3.micro"

@@ -12,7 +12,7 @@ student_info = {
   name          = "Khouloud Chebboubi"
   matriculation = "102303255"
   course_code   = "DLBSEPCP01_E"
-  email         = "khouloud.chebboubi@student.iu.org"
+  email         = "khouloudchebboubi22@gmail.com"
 }
 
 vpc_config = {

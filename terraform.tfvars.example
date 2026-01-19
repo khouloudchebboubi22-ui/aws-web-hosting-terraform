@@ -1,5 +1,0 @@
-# terraform.tfvars.example
-
-aws_region = "eu-central-1"
-bucket_name = "your-unique-bucket-name-here"
-key_name = "your-ssh-key-name"
